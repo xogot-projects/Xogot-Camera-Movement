@@ -47,6 +47,7 @@ Key ideas demonstrated include:
 Watch the full walkthrough on the [Xogot YouTube Channel](https://youtube.com/@xogot):
 
 **Better Camera Movement in Xogot - Game Development in Godot on iPad**
+https://youtu.be/JdOshFWwXS0
 
 ---
 
